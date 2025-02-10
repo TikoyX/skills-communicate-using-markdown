@@ -1,5 +1,9 @@
 # FEDT
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 ## NOK
 
 ### MESTER!
